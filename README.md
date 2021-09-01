@@ -1,0 +1,7 @@
+- 👋 Hi, my name is Irene
+- 🖥 I am a Computer Engineering student
+- 🇪🇸 From Madrid, Spain
+- 🇲🇽 Currently studying at Monterrey TEC, Mexico
+- 📚 Learning AI, business for IT and more
+- 💞️ I love web and mobile development
+- 📫 You can reach me at truchadoirene@gmail.com
